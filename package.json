@@ -1,0 +1,22 @@
+{
+  "name": "node.js_course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shmatlai/node.js_course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shmatlai/node.js_course/issues"
+  },
+  "homepage": "https://github.com/shmatlai/node.js_course#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
